@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f03a9f62-7a67-47d0-b1bf-ec8ea004c2c1" name="Default" comment="" />
+    <list default="true" id="f03a9f62-7a67-47d0-b1bf-ec8ea004c2c1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SocialSite/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SocialSite/.idea/workspace.xml" />
+    </list>
     <ignored path="check.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Registry.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Registry.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SocialSite/Registry/Registry.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="53">
@@ -29,6 +31,16 @@
               <folding>
                 <element signature="e#6#107#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysqldb.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SocialSite/Registry/mysqldb.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../SocialSite/Registry/Registry.php" />
+        <option value="$PROJECT_DIR$/../SocialSite/Registry/mysqldb.class.php" />
       </list>
     </option>
   </component>
@@ -135,6 +148,7 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SocialSite" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RunManager" selected="PHP Web Application.localhost">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -197,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473628557895</updated>
-      <workItem from="1473628560259" duration="3510000" />
+      <workItem from="1473628560259" duration="3938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3510000" />
+    <option name="totallyTimeSpent" value="3938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -252,6 +266,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../SocialSite/Registry/mysqldb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../SocialSite/Registry/Registry.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
@@ -259,6 +281,14 @@
           <folding>
             <element signature="e#6#107#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SocialSite/Registry/mysqldb.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
